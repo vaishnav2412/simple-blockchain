@@ -22,7 +22,11 @@ This is a basic simulation of a blockchain implemented in Python, intended for e
 ---
 
 ## 📂 Project Structure
-Blockchain/ ├── blockchain.py # Main blockchain implementation ├── requirements.txt # Python dependencies ├── Dockerfile # Docker image setup └── README.md # Project documentation
+Blockchain/
+├── blockchain.py          # Main blockchain implementation
+├── requirements.txt       # Python dependencies
+├── Dockerfile             # Docker image setup
+└── README.md              # Project documentation
 
 ---
 
@@ -64,6 +68,16 @@ Ability to write and structure clean Python code
 
 Basic usage of Docker for software containerization
 
+❓ Concepts Covered
+Blockchain Basics
+
+Proof-of-Work
+
+Hashing with SHA-256
+
+Data Integrity & Tamper Detection
+
+Docker Containerization
 Awareness of tamper detection and cryptographic integrity
 
 
